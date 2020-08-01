@@ -19,7 +19,7 @@ Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked T
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an frontend developer in Init Group (Bilbao).
+- 👨🏽‍💻 I’m currently a frontend developer in Init Group (Bilbao).
 - 🌱 I’m currently learning TDD, Typescript and architecture applied to Front layer; 
 - 🤔 My interests are with Frontend development, game design & development and illustration;
 - 💼 I’ve a Bachelor's degree in Software Engineering;
