@@ -15,7 +15,7 @@
 
 Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering** 🚀 from Bilbao, currently. 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+  <img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
