@@ -15,7 +15,7 @@
 
 Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering** 🚀 from Bilbao, currently. 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -81,4 +81,4 @@ while(1) {
 ```
 
 
-⭐️ With love And with copy and paste skills. [ZenekeZene](https://github.com/ZenekeZene)
+⭐️ With love and copy and paste skills. [ZenekeZene](https://github.com/ZenekeZene)
