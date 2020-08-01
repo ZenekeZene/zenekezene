@@ -4,7 +4,7 @@
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hectorvillar.com">
-  <img align="left" alt="Personal portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/chrome.svg" />
+  <img align="left" alt="Personal portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlechrome.svg" />
 </a>
 <a href="https://www.instagram.com/zenekezene/">
   <img align="left" alt="ZenekeZene's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
