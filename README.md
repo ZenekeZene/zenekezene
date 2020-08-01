@@ -76,7 +76,12 @@ Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked T
 
 ```js
 while(1) {
+  me.eat();
+  // me.code();
+  // Sorry, code every day? no thanks.
   me.join();
+  me.drink('beer');
+  me.sleep();
 }
 ```
 
