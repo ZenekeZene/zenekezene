@@ -35,8 +35,8 @@ Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked T
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nuxt/nuxt.png"></code>
+<code><img height="20" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/21133402291551942630-512.png"></code>
+<code><img height="20" src="https://pixmatstudios.com/images/sample/logo/ionic.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -46,15 +46,39 @@ Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked T
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/backbone/backbone.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/backbonejs/backbonejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+
+
+**Some illustrations that I have drawn on [my Instagram](https://instagram.com/zenekezene):**
+
+<a href='https://www.instagram.com/p/CAtApYFCVIB/' target='_blank'>
+  <img width='20%' src='https://instagram.fbio2-1.fna.fbcdn.net/v/t51.2885-15/e35/101370488_1046519452412325_1645245624680042234_n.jpg?_nc_ht=instagram.fbio2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Di_Fr2u6vrAAX8jRbCj&oh=8f4da7d546f49a01f9a34bf9a7886050&oe=5F4DBD3E' alt='Instagram photo' />
+</a>
+<a href='https://www.instagram.com/p/B7DwGBPi-_4/' target='_blank'>
+  <img width='20%' src='https://instagram.fbio2-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/82414017_1586345854839301_252668707078321734_n.jpg?_nc_ht=instagram.fbio2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=4GiZU5qgu64AX9Vw8gP&oh=53d79c52e2b28531fb8cbabcfb5008f7&oe=5F4FD0BC' alt='Instagram photo' />
+</a>
+<a href='https://www.instagram.com/p/B50-DeXoacH/' target='_blank'>
+  <img width='20%' src='https://instagram.fbio2-2.fna.fbcdn.net/v/t51.2885-15/e35/75595283_762940700840268_451809547115594819_n.jpg?_nc_ht=instagram.fbio2-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=qIv7cRCJ9_IAX9evvEV&oh=70f1ae099b652715078c1d4e602dc2ec&oe=5F508ABC' alt='Instagram photo' />
+</a>
+<a href='https://www.instagram.com/p/BtjkMAtgwfu/' target='_blank'>
+  <img width='20%' src='https://instagram.fbio2-2.fna.fbcdn.net/v/t51.2885-15/e35/50246537_119251855830841_5415370244134001188_n.jpg?_nc_ht=instagram.fbio2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=P_MCU4bAjOkAX_DJ2zf&oh=1240f0adeece0b8997e10258f21414a6&oe=5F4D9A49' alt='Instagram photo' />
+</a>
 
 ![Zenekezene's github stats](https://github-readme-stats.vercel.app/api?username=zenekezene&show_icons=true&hide_border=true)
 
-⭐️ From [ZenekeZene](https://github.com/ZenekeZene)
+
+```js
+while(1) {
+  me.join();
+}
+```
+
+
+⭐️ With love And with copy and paste skills. [ZenekeZene](https://github.com/ZenekeZene)
