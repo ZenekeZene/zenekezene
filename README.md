@@ -59,21 +59,6 @@ Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked T
 <br/>
 <br/>
 
-**Some illustrations that I have drawn on [my Instagram](https://instagram.com/zenekezene):**
-
-<a href='https://www.instagram.com/p/B7DwGBPi-_4/' target='_blank'>
-  <img height="150" src='https://instagram.fbio2-2.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/82414017_1586345854839301_252668707078321734_n.jpg?_nc_ht=instagram.fbio2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=4GiZU5qgu64AX9Vw8gP&oh=53d79c52e2b28531fb8cbabcfb5008f7&oe=5F4FD0BC' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/B50-DeXoacH/' target='_blank'>
-  <img height="150" src='https://instagram.fbio2-2.fna.fbcdn.net/v/t51.2885-15/e35/75595283_762940700840268_451809547115594819_n.jpg?_nc_ht=instagram.fbio2-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=qIv7cRCJ9_IAX9evvEV&oh=70f1ae099b652715078c1d4e602dc2ec&oe=5F508ABC' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/BtjkMAtgwfu/' target='_blank'>
-  <img height="150" src='https://instagram.fbio2-2.fna.fbcdn.net/v/t51.2885-15/e35/50246537_119251855830841_5415370244134001188_n.jpg?_nc_ht=instagram.fbio2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=P_MCU4bAjOkAX_DJ2zf&oh=1240f0adeece0b8997e10258f21414a6&oe=5F4D9A49' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CAtApYFCVIB/' target='_blank'>
-  <img height="150" src='https://instagram.fbio2-1.fna.fbcdn.net/v/t51.2885-15/e35/101370488_1046519452412325_1645245624680042234_n.jpg?_nc_ht=instagram.fbio2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Di_Fr2u6vrAAX8jRbCj&oh=8f4da7d546f49a01f9a34bf9a7886050&oe=5F4DBD3E' alt='Instagram photo' />
-</a>
-
 ![Zenekezene's github stats](https://github-readme-stats.vercel.app/api?username=zenekezene&show_icons=true&hide_border=true)
 ```js
 while(1) {
