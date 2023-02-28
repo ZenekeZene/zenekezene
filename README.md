@@ -15,7 +15,7 @@
 
 I'm Héctor Villar, a top-ranked worldwide Futbolín Competitions Expert and Software Engineer from Bilbao.
 
-  <img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
+  <img align="right" alt="GIF" width="30%" src="https://freeimage.host/i/HVopnqb" />
 
 **Talking about Personal Stuffs:**
 
