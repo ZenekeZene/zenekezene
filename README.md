@@ -13,18 +13,18 @@
 <br />
 <br />
 
-Hi there, I'm **Héctor Villar**, a **Futbolín Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering** 🚀 from Bilbao, currently. 
+I'm Héctor Villar, a top-ranked worldwide Futbolín Competitions Expert and Software Engineer from Bilbao.
 
   <img align="right" alt="GIF" width="40%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a frontend developer in Idealista.
-- 🌱 I’m learning TDD, Typescript, architecture applied to front layer **and digital illustration!**; 
-- 🤔 My interests are with game | web design & development and illustration;
-- 💼 I’ve a Bachelor's degree in Software Engineering (and SYSADMIN and Web Application Development colleges);
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via hectorvillarm@gmail.com to reach me.
+- 👨🏽‍💻 I work as a frontend developer at Idealista.
+- 🌱 I'm currently learning TDD, Typescript, front-end architecture, and digital illustration. 
+- 🤔 I'm interested in game design, web development, and illustration.
+- 💼 I hold a Bachelor's degree in Software Engineering, as well as degrees in System Administration and Web Application Development.
+- 💬 Feel free to ask me anything; I'm happy to help.
+- 📫 Reach me at hectorvillarm@gmail.com.
 - ⭐ See my portfolio in [zenekezene.com](https://zenekezene.com).
 - 📝 See my [Curriculum Vitae](https://www.notion.so/zeneke/H-ctor-Villar-cf4c6b35abac41cdad35588d985d4667#72a30bef9089414a8ab7e6bfdc302554) to get more info.
 
