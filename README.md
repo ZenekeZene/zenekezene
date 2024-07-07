@@ -19,11 +19,9 @@ I'm Héctor Villar, a top-ranked worldwide Futbolín Competitions Expert and Sof
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I work as a frontend developer at Idealista.
+- 👨🏽‍💻 I work as a frontend developer at Genially.
 - 🌱 I'm currently learning TDD, Typescript, front-end architecture, and digital illustration. 
 - 🤔 I'm interested in game design, web development, and illustration.
-- 💼 I hold a Bachelor's degree in Software Engineering, as well as degrees in System Administration and Web Application Development.
-- 💬 Feel free to ask me anything; I'm happy to help.
 - 📫 Reach me at hectorvillarm@gmail.com.
 - ⭐ See my portfolio in [zenekezene.com](https://zenekezene.com).
 - 📝 See my [Curriculum Vitae](https://www.notion.so/zeneke/H-ctor-Villar-cf4c6b35abac41cdad35588d985d4667#72a30bef9089414a8ab7e6bfdc302554) to get more info.
@@ -59,17 +57,5 @@ I'm Héctor Villar, a top-ranked worldwide Futbolín Competitions Expert and Sof
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gamemaker/gamemaker.png"></code>
 <br/>
 <br/>
-
-![Zenekezene's github stats](https://github-readme-stats.vercel.app/api?username=zenekezene&show_icons=true&hide_border=true)
-```js
-while(1) {
-  me.eat();
-  // me.code();
-  // Sorry, code every day? no thanks.
-  me.join();
-  me.drink('beer');
-  me.sleep();
-}
-```
 
 ⭐️ With love and copy and paste skills. [ZenekeZene](https://github.com/ZenekeZene)
